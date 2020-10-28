@@ -1,0 +1,88 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Variant" parent="DefaultScene">
+        <item name="carBody">#4CAF50</item>
+        <item name="headlights">#CDDC39</item>
+        <item name="sideMirrors">#66AF69</item>
+        <item name="frontOpenArea">#609A62</item>
+        <item name="windowShield">#C4CC7B</item>
+        <item name="windowShield1">#CDD866</item>
+        <item name="jeepBody">#45F627</item>
+        <item name="jeepHead">#93F66F</item>
+    </style>
+
+    <style name="Variant1" parent="DefaultScene">
+        <item name="carBody">#BA0D27</item>
+        <item name="headlights">#CDDF18</item>
+        <item name="sideMirrors">#EA3A3A</item>
+        <item name="frontOpenArea">#EA4343</item>
+        <item name="windowShield">#14A9C3</item>
+        <item name="windowShield1">#3C9ADA</item>
+        <item name="jeepBody">#FF0202</item>
+        <item name="jeepHead">#FB4150</item>
+    </style>
+
+    <style name="Variant2" parent="DefaultScene">
+        <item name="carBody">#B909E1</item>
+        <item name="headlights">#2B56C5</item>
+        <item name="sideMirrors">#D72AE3</item>
+        <item name="frontOpenArea">#D945E4</item>
+        <item name="windowShield">#3BEDB4</item>
+        <item name="windowShield1">#16B6A8</item>
+        <item name="jeepBody">#EF00FF</item>
+        <item name="jeepHead">#CF3FEF</item>
+    </style>
+
+    <style name="Variant3" parent="DefaultScene">
+        <item name="carBody">#F1BE00</item>
+        <item name="headlights">#F1855A</item>
+        <item name="sideMirrors">#E4BD44</item>
+        <item name="frontOpenArea">#EFD03B</item>
+        <item name="windowShield">#8FEF53</item>
+        <item name="windowShield1">#6DED4A</item>
+        <item name="jeepBody">#FFEB3B</item>
+        <item name="jeepHead">#ECC347</item>
+    </style>
+
+    <style name="Variant4" parent="DefaultScene">
+        <item name="carBody">#0029FF</item>
+        <item name="headlights">#EC615D</item>
+        <item name="sideMirrors">#4C64FA</item>
+        <item name="frontOpenArea">#3779DD</item>
+        <item name="windowShield">#51E4BB</item>
+        <item name="windowShield1">#78D8BA</item>
+        <item name="jeepBody">#040FE8</item>
+        <item name="jeepHead">#313AEF</item>
+    </style>
+
+    <style name="Variant5" parent="DefaultScene">
+        <item name="carBody">#02051B</item>
+        <item name="headlights">#EFEFEF</item>
+        <item name="sideMirrors">#051C06</item>
+        <item name="frontOpenArea">#051C06</item>
+        <item name="windowShield">#A5A88B</item>
+        <item name="windowShield1">#B9BAB1</item>
+        <item name="jeepBody">#170501</item>
+        <item name="jeepHead">#130F0F</item>
+    </style>
+
+    <style name="DefaultScene">
+        <item name="carBody">#454545</item>
+        <item name="headlights">#E95353</item>
+        <item name="sideMirrors">#6F6F6F</item>
+        <item name="frontOpenArea">#6F6F6F</item>
+        <item name="windowShield">#168DE2</item>
+        <item name="windowShield1">#CDD866</item>
+        <item name="jeepBody">#201F1E</item>
+        <item name="jeepHead">#434141</item>
+    </style>
+
+</resources>

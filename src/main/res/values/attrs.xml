@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CAR">
+        <attr name="carBody" format="color" />
+        <attr name="windowShield1" format="color" />
+        <attr name="windowShield" format="color" />
+        <attr name="headlights" format="color" />
+        <attr name="frontOpenArea" format="color" />
+        <attr name="sideMirrors" format="color" />
+        <attr name="jeepBody" format="color" />
+        <attr name="jeepHead" format="color" />
+    </declare-styleable>
+</resources>

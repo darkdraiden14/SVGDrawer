@@ -1,0 +1,122 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="60"
+    android:viewportHeight="49">
+  <path
+      android:pathData="m7,12h5v2h-5z"
+      android:fillColor="#7f8281"
+      android:fillType="nonZero"/>
+  <path
+      android:pathData="m48,11.999h5v2h-5z"
+      android:fillColor="#7f8284"
+      android:fillType="nonZero"/>
+  <path
+      android:pathData="m53,37v2c-0.0033,1.1032 -0.8968,1.9967 -2,2h-15v-1c0,-0.5523 -0.4477,-1 -1,-1h-10c-0.5523,0 -1,0.4477 -1,1v1h-15c-1.1032,-0.0033 -1.9967,-0.8968 -2,-2v-2c0.0033,-1.1032 0.8968,-1.9967 2,-2h42c1.1032,0.0033 1.9967,0.8968 2,2z"
+      android:fillColor="#bdc3c7"
+      android:fillType="nonZero"/>
+  <path
+      android:pathData="m16,41v4c0,1.6569 -1.3431,3 -3,3h-7c-1.6569,0 -3,-1.3431 -3,-3v-15c0.0001,-0.4732 0.1132,-0.9394 0.33,-1.36 1.2049,0.2638 2.4368,0.3846 3.67,0.36 0,0 0,5 2,6 -1.1032,0.0033 -1.9967,0.8968 -2,2v2c0.0033,1.1032 0.8968,1.9967 2,2z"
+      android:fillColor="#282f38"
+      android:fillType="nonZero"/>
+  <path
+      android:pathData="m59,27s0,1.06 -2.33,1.64c-1.2049,0.2638 -2.4368,0.3846 -3.67,0.36 0,0 0,5 -2,6h-42c-2,-1 -2,-6 -2,-6 -1.2332,0.0246 -2.4651,-0.0962 -3.67,-0.36 -2.33,-0.58 -2.33,-1.64 -2.33,-1.64 0,-3.25 3.96,-4.52 5.45,-4.88 0.3444,-0.0903 0.6148,-0.3569 0.71,-0.7 0.6815,-2.1639 2.0245,-4.0595 3.84,-5.42h38c1.8155,1.3605 3.1585,3.2561 3.84,5.42 0.0952,0.3431 0.3656,0.6097 0.71,0.7 1.49,0.36 5.45,1.63 5.45,4.88z"
+      android:fillColor="?attr/jeepBody"
+      android:fillType="nonZero"/><!--jeep Body-->
+  <path
+      android:pathData="m57,30v15c0,1.6569 -1.3431,3 -3,3h-7c-1.6569,0 -3,-1.3431 -3,-3v-4h7c1.1032,-0.0033 1.9967,-0.8968 2,-2v-2c-0.0033,-1.1032 -0.8968,-1.9967 -2,-2 2,-1 2,-6 2,-6 1.2332,0.0246 2.4651,-0.0962 3.67,-0.36 0.2168,0.4206 0.3299,0.8868 0.33,1.36z"
+      android:fillColor="#2c2f38"
+      android:fillType="nonZero"/>
+  <path
+      android:pathData="m49,6v10h-4v-10c-0.0033,-1.1032 -0.8968,-1.9967 -2,-2h-26c-1.1032,0.0033 -1.9967,0.8968 -2,2v10h-4v-10c0,-3.3137 2.6863,-6 6,-6h26c3.3137,0 6,2.6863 6,6z"
+      android:fillColor="?attr/jeepHead"
+      android:fillType="nonZero"/> <!--jeep head-->
+  <path
+      android:pathData="m45,6v10h-30v-10c0.0033,-1.1032 0.8968,-1.9967 2,-2h26c1.1032,0.0033 1.9967,0.8968 2,2z"
+      android:fillColor="?attr/windowShield"
+      android:fillType="nonZero"/><!--Wind Shield-->
+  <path
+      android:pathData="m43.35,4.03c-6.28,0.21 -28.35,1.68 -28.35,11.97v-10c0.0033,-1.1032 0.8968,-1.9967 2,-2h26c0.1173,-0.0004 0.2345,0.0097 0.35,0.03z"
+      android:fillColor="?attr/windowShield1"
+      android:fillType="nonZero"/><!--Wind Shield 1-->
+  <path
+      android:pathData="M3,9L6,9A2,2 0,0 1,8 11L8,13A2,2 0,0 1,6 15L3,15A2,2 0,0 1,1 13L1,11A2,2 0,0 1,3 9z"
+      android:fillColor="?attr/jeepBody"
+      android:fillType="nonZero"/> <!--jeep Body-->
+  <path
+      android:pathData="M57,15L54,15A2,2 0,0 1,52 13L52,11A2,2 0,0 1,54 9L57,9A2,2 0,0 1,59 11L59,13A2,2 0,0 1,57 15z"
+      android:fillColor="?attr/jeepBody"
+      android:fillType="nonZero"/> <!--jeep Body-->
+  <path
+      android:pathData="M42,22L47,22A2,2 0,0 1,49 24L49,26A2,2 0,0 1,47 28L42,28A2,2 0,0 1,40 26L40,24A2,2 0,0 1,42 22z"
+      android:fillColor="?attr/headlights"
+      android:fillType="nonZero"/> <!--Headlight-->
+  <path
+      android:pathData="m14,32h-2c-0.5523,0 -1,-0.4477 -1,-1s0.4477,-1 1,-1h2c0.5523,0 1,0.4477 1,1s-0.4477,1 -1,1z"
+      android:fillColor="#f29c1f"
+      android:fillType="nonZero"/>
+  <path
+      android:pathData="m48,32h-2c-0.5523,0 -1,-0.4477 -1,-1s0.4477,-1 1,-1h2c0.5523,0 1,0.4477 1,1s-0.4477,1 -1,1z"
+      android:fillColor="#f29c1f"
+      android:fillType="nonZero"/>
+  <path
+      android:pathData="m24,31c-0.5523,0 -1,-0.4477 -1,-1v-8c0,-0.5523 0.4477,-1 1,-1s1,0.4477 1,1v8c0,0.5523 -0.4477,1 -1,1z"
+      android:fillColor="?attr/jeepHead"
+      android:fillType="nonZero"/> <!--jeep head-->
+  <path
+      android:pathData="m28,31c-0.5523,0 -1,-0.4477 -1,-1v-8c0,-0.5523 0.4477,-1 1,-1s1,0.4477 1,1v8c0,0.5523 -0.4477,1 -1,1z"
+      android:fillColor="?attr/jeepHead"
+      android:fillType="nonZero"/> <!--jeep head-->
+  <path
+      android:pathData="m32,31c-0.5523,0 -1,-0.4477 -1,-1v-8c0,-0.5523 0.4477,-1 1,-1s1,0.4477 1,1v8c0,0.5523 -0.4477,1 -1,1z"
+      android:fillColor="?attr/jeepHead"
+      android:fillType="nonZero"/> <!--jeep head-->
+  <path
+      android:pathData="m36,31c-0.5523,0 -1,-0.4477 -1,-1v-8c0,-0.5523 0.4477,-1 1,-1s1,0.4477 1,1v8c0,0.5523 -0.4477,1 -1,1z"
+      android:fillColor="?attr/jeepHead"
+      android:fillType="nonZero"/> <!--jeep head-->
+  <path
+      android:pathData="m28.2,4 l-8,12h-2.4l8,-12z"
+      android:fillColor="#fff"
+      android:fillType="nonZero"/>
+  <path
+      android:pathData="m34.2,4 l-8,12h-2.4l8,-12z"
+      android:fillColor="#fff"
+      android:fillType="nonZero"/>
+  <path
+      android:pathData="m8,45v3h-2v-3c0,-0.5523 0.4477,-1 1,-1s1,0.4477 1,1z"
+      android:fillColor="#393f4a"
+      android:fillType="nonZero"/>
+  <path
+      android:pathData="m13,45v3h-2v-3c0,-0.5523 0.4477,-1 1,-1s1,0.4477 1,1z"
+      android:fillColor="#393f4a"
+      android:fillType="nonZero"/>
+  <path
+      android:pathData="m49,45v3h-2v-3c0,-0.5523 0.4477,-1 1,-1s1,0.4477 1,1z"
+      android:fillColor="#393f4a"
+      android:fillType="nonZero"/>
+  <path
+      android:pathData="m54,45v3h-2v-3c0,-0.5523 0.4477,-1 1,-1s1,0.4477 1,1z"
+      android:fillColor="#393f4a"
+      android:fillType="nonZero"/>
+  <path
+      android:pathData="M25,39L35,39A1,1 0,0 1,36 40L36,43A1,1 0,0 1,35 44L25,44A1,1 0,0 1,24 43L24,40A1,1 0,0 1,25 39z"
+      android:fillColor="#f3d55b"
+      android:fillType="nonZero"/>
+  <path
+      android:pathData="m59,49h-58c-0.5523,0 -1,-0.4477 -1,-1s0.4477,-1 1,-1h58c0.5523,0 1,0.4477 1,1s-0.4477,1 -1,1z"
+      android:fillColor="#7f8c8d"
+      android:fillType="nonZero"/>
+  <path
+      android:pathData="M13,22L18,22A2,2 0,0 1,20 24L20,26A2,2 0,0 1,18 28L13,28A2,2 0,0 1,11 26L11,24A2,2 0,0 1,13 22z"
+      android:fillColor="?attr/headlights"
+      android:fillType="nonZero"/> <!--headlight-->
+  <path
+      android:pathData="m18,29h-5c-1.6569,0 -3,-1.3431 -3,-3v-2c0,-1.6569 1.3431,-3 3,-3h5c1.6569,0 3,1.3431 3,3v2c0,1.6569 -1.3431,3 -3,3zM13,23c-0.5523,0 -1,0.4477 -1,1v2c0,0.5523 0.4477,1 1,1h5c0.5523,0 1,-0.4477 1,-1v-2c0,-0.5523 -0.4477,-1 -1,-1z"
+      android:fillColor="#7f8c8d"
+      android:fillType="nonZero"/>
+  <path
+      android:pathData="m47,29h-5c-1.6569,0 -3,-1.3431 -3,-3v-2c0,-1.6569 1.3431,-3 3,-3h5c1.6569,0 3,1.3431 3,3v2c0,1.6569 -1.3431,3 -3,3zM42,23c-0.5523,0 -1,0.4477 -1,1v2c0,0.5523 0.4477,1 1,1h5c0.5523,0 1,-0.4477 1,-1v-2c0,-0.5523 -0.4477,-1 -1,-1z"
+      android:fillColor="#7f8c8d"
+      android:fillType="nonZero"/>
+</vector>
